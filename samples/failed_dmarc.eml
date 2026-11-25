@@ -1,0 +1,8 @@
+Return-Path: <bounce@unknown-host.example>
+Authentication-Results: mx.example.org; spf=fail smtp.mailfrom=unknown-host.example; dkim=fail header.d=company.example; dmarc=fail header.from=company.example
+From: CEO <ceo@company.example>
+To: finance@company.example
+Subject: Urgent wire transfer
+Date: Mon, 24 Nov 2026 10:15:00 +0000
+
+Please process this transfer today and keep it confidential.

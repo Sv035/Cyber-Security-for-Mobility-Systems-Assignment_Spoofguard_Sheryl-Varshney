@@ -1,0 +1,8 @@
+Return-Path: <random@mailer.example>
+Authentication-Results: mx.example.org; spf=softfail smtp.mailfrom=mailer.example; dkim=none; dmarc=none
+From: "support@paypal.com" <random@mailer.example>
+To: student@university.edu
+Subject: Payment received
+Date: Mon, 24 Nov 2026 10:10:00 +0000
+
+You have received a payment. Click to claim.

@@ -1,0 +1,9 @@
+Return-Path: <support@paypa1.com>
+Authentication-Results: mx.example.org; spf=pass smtp.mailfrom=paypa1.com; dkim=pass header.d=paypa1.com; dmarc=pass header.from=paypa1.com
+From: PayPal Support <support@paypa1.com>
+Reply-To: help@secure-mail.example
+To: student@university.edu
+Subject: Your account is limited
+Date: Mon, 24 Nov 2026 10:05:00 +0000
+
+Please verify your account immediately.
